@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahirscoding
 - 👀 I’m interested in C and C++
-- 🌱 I’m currently learning C, C++, JavaScript
+- 🌱 I’m currently learning C, C++, Python
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me on instagram: DM on @tattletay
 - 😄 Pronouns: he/him
